@@ -8,15 +8,7 @@ SmartOps is an AI-powered Slack bot designed to automate Site Reliability Engine
 - Summarize logs with LLM
 - Daily digests on system health
 
-## Setup
-1. Clone the repo
-2. Run `npm install`
-3. Configure `.env` with your tokens
-4. Run `node app.js`
-
 ## Commands
 - `/check-pipeline`
 - `/restart-service`
 - `/log-summary`
-
-Built with ❤️ for Docusign SRE Internship.
